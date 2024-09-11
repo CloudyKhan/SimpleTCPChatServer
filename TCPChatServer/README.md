@@ -10,7 +10,7 @@ This project demonstrates a simple TCP chat server and client implementation in 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/dkhan25/SimpleTCPChatServer.git
+   git clone https://github.com/CloudyKhan/SimpleTCPChatServer.git
    cd SimpleTCPChatServer/TCPChatServer
    ```
 
